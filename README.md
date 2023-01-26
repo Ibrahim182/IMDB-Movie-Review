@@ -1,3 +1,4 @@
+launch on <a href='https://www.kaggle.com/code/ibrahimelsayed182/full-pipeline-of-text-preprocessing-bow-model'>Kaggle</a>, <a href='https://colab.research.google.com/drive/1AHhj8BR3KGJ-dtf-Glc6uPitJs-1D8tM?usp=sharing'>Colab</a>
 # IMDB-Movire-Review
 # The Full pipeline to go from the raw form to the prepared form
 
